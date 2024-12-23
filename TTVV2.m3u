@@ -35,7 +35,8 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 #EXTINF:0 group-title="IPV6央视",CCTV17
 http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
-#EXTINF:0 group-title="IPV6央视",CCTV4Khttps://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
+#EXTINF:0 group-title="IPV6央视",CCTV4
+Khttps://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
 #EXTINF:0 group-title="IPV6卫视",北京卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8
 #EXTINF:0 group-title="IPV6卫视",湖南卫视
