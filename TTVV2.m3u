@@ -13,3 +13,8 @@ https://openhls-tct.douyucdn2.cn/dyliveflv3/428402rxMcUVb0mH_2000.m3u8?txSecret=
 
 #EXTINF:0 group-title="斗鱼一起看",小片片说大片
 https://openhls-tct.douyucdn2.cn/dyliveflv1a/4258555r3isvDdlq_2000.m3u8?txSecret=7284d746b265711c36ca48bc2aad5bb5&txTime=67767278&token=h5-douyu-0-4258555-e2a6d0111c9cf8bbbd89566ce223c673&did=d2acf6edc2e6e10dadd967b4000817p1&origin=tct&vhost=play2&sid=405192150
+
+#EXTINF:0 group-title="虎牙一起看",1
+https://116-136-44-182.bytefcdnrd.com/huyalive/1099531752775-1099531752775-86436212537032704-2199063629006-10057-A-0-1.flv?302_type=cold_aggr&a_block=0&ctype=tars_mobile&dMod=mseh-0&domain=txdirect.flv.huya.com&fs=bgct&ratio=2000&redirect_from=pod.cn-mw1mqp.nkee.nss&sdkPcdn=1_1&sdk_sid=1735809141611&seqid=3204473735587&sv=202412311405&t=103&uid=1468664593799&uuid=2345829104&ver=1&wsSecret=34d35831923d4a9212856773b124f0fa&wsTime=6777a9f6
+#EXTINF:0 group-title="虎牙一起看",2
+https://116-136-181-8.bytefcdnrd.com/huyalive/1423787847-1423787847-6115122239307251712-2847699150-10057-A-0-1.flv?302_type=cold_aggr&a_block=0&ctype=tars_mobile&dMod=mseh-0&domain=txdirect.flv.huya.com&fs=bgct&ratio=2000&redirect_from=pod.cn-mw1mqp.nkee.nss&sdkPcdn=1_1&sdk_sid=1735809077824&seqid=3204473671645&sv=202412311405&t=103&uid=1468664593799&uuid=2282040527&ver=1&wsSecret=083d3ad6c44c4386154da61422edbdf6&wsTime=6777a98c
