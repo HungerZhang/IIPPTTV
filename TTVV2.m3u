@@ -124,3 +124,53 @@ http://124.128.73.58:9901/tsfile/live/1004_1.m3u8
 http://124.128.73.58:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="IPv4",海看大片
 http://124.128.73.58:9901/tsfile/live/1006_1.m3u8
+
+#EXTINF:-1 group-title="央视IPv4组播",CCTV1 HD
+http://144.52.199.69:18888/udp/239.21.1.120:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV2 HD
+http://144.52.199.69:18888/udp/239.21.1.151:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV3 HD
+http://144.52.199.69:18888/udp/239.21.2.45:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV4 HD
+http://144.52.199.69:18888/udp/239.21.1.154:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV5 HD
+http://144.52.199.69:18888/udp/239.21.2.46:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV5+ HD
+http://144.52.199.69:18888/udp/239.21.1.142:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV6 HD
+http://144.52.199.69:18888/udp/239.21.2.47:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV7 HD
+http://144.52.199.69:18888/udp/239.21.1.152:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV8 HD
+http://144.52.199.69:18888/udp/239.21.2.48:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV9 HD
+http://144.52.199.69:18888/udp/239.21.1.153:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV10 HD
+http://144.52.199.69:18888/udp/239.21.1.155:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV11 HD
+http://144.52.199.69:18888/udp/239.21.2.2:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV12 HD
+http://144.52.199.69:18888/udp/239.21.1.156:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV13 HD
+http://144.52.199.69:18888/udp/239.21.2.3:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV14 HD
+http://144.52.199.69:18888/udp/239.21.1.157:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV15 HD
+http://144.52.199.69:18888/udp/239.21.2.4:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV16 HD
+http://144.52.199.69:18888/udp/239.21.2.51:5002
+#EXTINF:-1 group-title="央视IPv4组播",CCTV17 HD
+http://144.52.199.69:18888/udp/239.21.1.186:5002
+
+#EXTINF:-1 group-title="其他IPv4组播",吉林卫视
+http://144.52.199.69:18888/udp/239.21.2.49:5002
+#EXTINF:-1 group-title="其他IPv4组播",山东卫视
+http://144.52.199.69:18888/udp/239.21.1.52:5002
+#EXTINF:-1 group-title="其他IPv4组播",东方卫视
+http://144.52.199.69:18888/udp/239.21.1.111:5002
+#EXTINF:-1 group-title="其他IPv4组播",辽宁卫视
+http://144.52.199.69:18888/udp/239.21.1.164:5002
+#EXTINF:-1 group-title="其他IPv4组播",浙江卫视
+http://144.52.199.69:18888/udp/239.21.1.90:5002
+#EXTINF:-1 group-title="其他IPv4组播",喜剧影院
+http://144.52.199.69:18888/udp/239.21.1.122:5002
