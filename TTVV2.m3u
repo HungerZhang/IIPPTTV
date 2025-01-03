@@ -1,48 +1,126 @@
 #EXTM3U
-#EXTINF:0 group-title="斗鱼一起看",【牛叔】N分钟带你看完大片
-https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_2000.m3u8?txSecret=932581e80a7787258c085b6c04de5014&txTime=677671a5&token=h5-douyu-0-2758565-9878fc6d670b765a1395e240a65a19e3&did=d2acf6edc2e6e10dadd967b4000817p1&origin=tct&vhost=play1&sid=405192190
-
-#EXTINF:0 group-title="斗鱼一起看",baby、贝贝
+#EXTINF:-1 group-title="斗鱼一起看",baby、贝贝
 https://4acfc9cb4f1329a9aa18d950541ddd39.livehwc3.cn/openhls-hw.douyucdn2.cn/live/431460rrhSOIDkva_2000.m3u8?did=d2acf6edc2e6e10dadd967b4000817p1&user_session_id=70a47a8204604d3471673f1c67054248&token=h5-douyu-0-431460-fa567577b058f4411e9f171b24ab751a&vhost=play2&txTime=677671f4&txSecret=b5bb6b263ef254792cc5af00df7c7289&origin=hw&sid=405272551&edge_slice=true&sub_m3u8=true
-
-#EXTINF:0 group-title="斗鱼一起看",橙記Orange
+#EXTINF:-1 group-title="斗鱼一起看",橙記Orange
 https://4acfc9cb4f1329a9aa18d950541ddd39.livehwc3.cn/openhls-hw.douyucdn2.cn/live/4549169rpZN3pn0k_2000.m3u8?token=h5-douyu-0-4549169-89e2e09ac9a01f68f77b0b31457301cd&txSecret=a35edccfa69ad2dad800adc9d4ead229&vhost=play1&user_session_id=70a47a8204604d3471673f1c67054248&txTime=6776722d&sid=404949350&origin=hw&did=d2acf6edc2e6e10dadd967b4000817p1&edge_slice=true&sub_m3u8=true
-
-#EXTINF:0 group-title="斗鱼一起看",bbox达人
-https://openhls-tct.douyucdn2.cn/dyliveflv3/428402rxMcUVb0mH_2000.m3u8?txSecret=05bc163f99714ef66ba871d2b7670441&txTime=6776725d&token=h5-douyu-0-428402-a924040fdaf2b5778637e2f328ff059d&did=d2acf6edc2e6e10dadd967b4000817p1&origin=tct&vhost=play3&sid=406661830
-
-#EXTINF:0 group-title="斗鱼一起看",小片片说大片
-https://openhls-tct.douyucdn2.cn/dyliveflv1a/4258555r3isvDdlq_2000.m3u8?txSecret=7284d746b265711c36ca48bc2aad5bb5&txTime=67767278&token=h5-douyu-0-4258555-e2a6d0111c9cf8bbbd89566ce223c673&did=d2acf6edc2e6e10dadd967b4000817p1&origin=tct&vhost=play2&sid=405192150
-
-#EXTINF:0 group-title="斗鱼一起看",进击的神乐
+#EXTINF:-1 group-title="斗鱼一起看",进击的神乐
 https://4acfc9cb4f1329a9aa18d950541ddd39.livehwc3.cn/openhls-hw.douyucdn2.cn/live/85894rmovieChow_2000.m3u8?vhost=play1&did=a0c9477fa5d9ee224bbb5248000817p1&token=h5-douyu-0-85894-22241099d4a1d8097ada92276af06ced&edge_slice=true&origin=hw&user_session_id=e70aae40a6ca8475b235bdb214d46170&txTime=677675b2&sub_m3u8=true&sid=406113910&txSecret=8e17552d040bdeb2369947de68092685
-
-#EXTINF:0 group-title="斗鱼一起看",美兮超可爱的
+#EXTINF:-1 group-title="斗鱼一起看",美兮超可爱的
 https://4acfc9cb4f1329a9aa18d950541ddd39.livehwc3.cn/openhls-hw.douyucdn2.cn/live/20415rnWbjg6Ex1K_2000.m3u8?vhost=play2&token=h5-douyu-0-20415-b415c11229b60973809a9454f18b0102&edge_slice=true&origin=hw&sid=406013072&did=a0c9477fa5d9ee224bbb5248000817p1&user_session_id=e70aae40a6ca8475b235bdb214d46170&txSecret=05167cf2bdce1ee2a98cbe06aa892612&txTime=677675f1&sub_m3u8=true
-
-#EXTINF:0 group-title="斗鱼一起看",进击D神乐
+#EXTINF:-1 group-title="斗鱼一起看",进击D神乐
 https://4acfc9cb4f1329a9aa18d950541ddd39.livehwc3.cn/openhls-hw.douyucdn2.cn/live/122402rK7MO9bXSq_2000.m3u8?vhost=play2&token=h5-douyu-0-122402-1079daba454fd8a4a2489dbbc19fb05a&edge_slice=true&origin=hw&sid=406113904&user_session_id=e70aae40a6ca8475b235bdb214d46170&txTime=6776762c&txSecret=365766a3ad11b901704b3e6ead0b71d5&did=a0c9477fa5d9ee224bbb5248000817p1&sub_m3u8=true
 
-#EXTINF:0 group-title="斗鱼一起看",宋小宝小品
-https://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.m3u8?txSecret=64f2ebff2e4a0d204ab3be34169694ff&txTime=67767665&token=h5-douyu-0-9817729-ea22dc91e0d62a75e8305b62af4d48a2&did=a0c9477fa5d9ee224bbb5248000817p1&origin=tct&vhost=play3&sid=406587779
-
-#EXTINF:0 group-title="斗鱼一起看",天天爱短剧
-https://openhls-tct.douyucdn2.cn/dyliveflv3/12313644r2sTzcir_2000.m3u8?txSecret=2b217a64a2ff7e45d3706e48a34eafbf&txTime=67767694&token=h5-douyu-0-12313644-eab2e703bba2c0e49fd3a52f0d29da1e&did=a0c9477fa5d9ee224bbb5248000817p1&origin=tct&vhost=play3&sid=406652588
-
-#EXTINF:0 group-title="斗鱼一起看",史君说剧
-https://openhls-tct.douyucdn2.cn/dyliveflv3/9419771rOuNgospB_2000.m3u8?txSecret=5fd8e4db19a009a124fdfa80d2478b92&txTime=677676bf&token=h5-douyu-0-9419771-e116a97a8193c65892471326f9139f20&did=a0c9477fa5d9ee224bbb5248000817p1&origin=tct&vhost=play3&sid=406488917
-
-#EXTINF:0 group-title="斗鱼一起看",牛叔说电影二台
-https://openhls-tct.douyucdn2.cn/dyliveflv3/10010651rlya4VKy_2000.m3u8?txSecret=d7d13526a58ab7f776c88a8444ffbb37&txTime=677676e3&token=h5-douyu-0-10010651-57dbfb4be890bbb5991f72d1156ef346&did=a0c9477fa5d9ee224bbb5248000817p1&origin=tct&vhost=play3&sid=405828877
-
-#EXTINF:0 group-title="斗鱼一起看",开心麻花经典小品
-https://openhls-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG_2000.m3u8?txSecret=2fa070701cd99fba87ac36f164668ba1&txTime=67767711&token=h5-douyu-0-10153463-cf6c8e4ceca767f786b9b00bfe891730&did=a0c9477fa5d9ee224bbb5248000817p1&origin=tct&vhost=play3&sid=406530002
-
-#EXTINF:0 group-title="斗鱼一起看",刘老师说电影
-https://openhls-tct.douyucdn2.cn/dyliveflv3/8317926rtTBK89SB_2000.m3u8?txSecret=8e89133f40c1eba6f5a6cb8bd3ef366e&txTime=67767747&token=h5-douyu-0-8317926-83851a55b57a42efcd0af3684b225a9b&did=a0c9477fa5d9ee224bbb5248000817p1&origin=tct&vhost=play3&sid=404970095
-
-#EXTINF:0 group-title="斗鱼一起看",贾玲经典小品
-https://openhls-tct.douyucdn2.cn/dyliveflv3/10419541rY03Htjr_2000.m3u8?txSecret=97d4ed5ecf8ce58a596a67aa99ec6844&txTime=67767773&token=h5-douyu-0-10419541-d0df7ec8fa6cb7cd471d6c1bccabb3e2&did=a0c9477fa5d9ee224bbb5248000817p1&origin=tct&vhost=play3&sid=405920050
-
-#EXTINF:0 group-title="斗鱼一起看",1900影剧室
-https://openhls-tct.douyucdn2.cn/dyliveflv3/7796193ry9BTa4z3_2000.m3u8?txSecret=b5d8fa8ca048182a33d3db3c38f3eb3a&txTime=67767799&token=h5-douyu-0-7796193-1d9091fdfd1f63a98339b0d2c205d1bf&did=a0c9477fa5d9ee224bbb5248000817p1&origin=tct&vhost=play3&sid=405816045
+#EXTINF:-1 group-title="IPv4",CCTV1-综合
+http://124.128.73.58:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV2-财经
+http://124.128.73.58:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV3-综艺
+http://124.128.73.58:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV4-国际
+http://124.128.73.58:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV5-体育
+http://124.128.73.58:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV6-电影
+http://124.128.73.58:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV7-军农
+http://124.128.73.58:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV8-电视剧
+http://124.128.73.58:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV9-纪录
+http://124.128.73.58:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV10-科教
+http://124.128.73.58:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV11-戏曲
+http://124.128.73.58:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV12-社会与法
+http://124.128.73.58:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV13-新闻
+http://124.128.73.58:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV14-少儿
+http://124.128.73.58:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="IPv4",CCTV15-音乐
+http://124.128.73.58:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="IPv4",山东卫视
+http://124.128.73.58:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="IPv4",浙江卫视
+http://124.128.73.58:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="IPv4",湖南卫视
+http://124.128.73.58:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="IPv4",江苏卫视
+http://124.128.73.58:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="IPv4",上海卫视
+http://124.128.73.58:9901/tsfile/live/0107_2.m3u8
+#EXTINF:-1 group-title="IPv4",天津卫视
+http://124.128.73.58:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="IPv4",北京卫视
+http://124.128.73.58:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="IPv4",广东卫视
+http://124.128.73.58:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="IPv4",湖北卫视
+http://124.128.73.58:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="IPv4",旅游卫视
+http://124.128.73.58:9901/tsfile/live/0114_1.m3u8
+#EXTINF:-1 group-title="IPv4",吉林卫视
+http://124.128.73.58:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="IPv4",山西卫视
+http://124.128.73.58:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="IPv4",云南卫视
+http://124.128.73.58:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="IPv4",宁夏卫视
+http://124.128.73.58:9901/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="IPv4",广西卫视
+http://124.128.73.58:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="IPv4",辽宁卫视
+http://124.128.73.58:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="IPv4",四川卫视
+http://124.128.73.58:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="IPv4",东南卫视
+http://124.128.73.58:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="IPv4",陕西卫视
+http://124.128.73.58:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="IPv4",重庆卫视
+http://124.128.73.58:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="IPv4",河南卫视
+http://124.128.73.58:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="IPv4",江西卫视
+http://124.128.73.58:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="IPv4",安徽卫视
+http://124.128.73.58:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="IPv4",深圳卫视
+http://124.128.73.58:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="IPv4",甘肃卫视
+http://124.128.73.58:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="IPv4",青海卫视
+http://124.128.73.58:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="IPv4",黑龙江卫视
+http://124.128.73.58:9901/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="IPv4",厦门卫视
+http://124.128.73.58:9901/tsfile/live/0129_1.m3u8
+#EXTINF:-1 group-title="IPv4",河北卫视
+http://124.128.73.58:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="IPv4",贵州卫视
+http://124.128.73.58:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="IPv4",西藏卫视
+http://124.128.73.58:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="IPv4",兵团卫视
+http://124.128.73.58:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="IPv4",内蒙古卫视
+http://124.128.73.58:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="IPv4",新疆卫视
+http://124.128.73.58:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="IPv4",齐鲁高清
+http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="IPv4",山东体育
+http://124.128.73.58:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="IPv4",山东综艺
+http://124.128.73.58:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="IPv4",山东影视
+http://124.128.73.58:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="IPv4",济南综合
+http://124.128.73.58:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="IPv4",济南都市
+http://124.128.73.58:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="IPv4",济南影视
+http://124.128.73.58:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="IPv4",海看大片
+http://124.128.73.58:9901/tsfile/live/1006_1.m3u8
