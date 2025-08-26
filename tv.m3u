@@ -1,253 +1,253 @@
 #EXTM3U
-#EXTINF:-1,group-title="央视组播",CCTV-1 HD
+#EXTINF:-1 group-title="央视组播",CCTV-1 HD
 http://221.219.183.89:4022/rtp/239.3.1.129:8008
-#EXTINF:-1,group-title="央视组播",CCTV-2 HD
+#EXTINF:-1 group-title="央视组播",CCTV-2 HD
 http://221.219.183.89:4022/rtp/239.3.1.60:8084
-#EXTINF:-1,group-title="央视组播",CCTV-3 HD
+#EXTINF:-1 group-title="央视组播",CCTV-3 HD
 http://221.219.183.89:4022/rtp/239.3.1.172:8001
-#EXTINF:-1,group-title="央视组播",CCTV-4 HD
+#EXTINF:-1 group-title="央视组播",CCTV-4 HD
 http://221.219.183.89:4022/rtp/239.3.1.105:8092
-#EXTINF:-1,group-title="央视组播",CCTV-5 HD
+#EXTINF:-1 group-title="央视组播",CCTV-5 HD
 http://221.219.183.89:4022/rtp/239.3.1.173:8001
-#EXTINF:-1,group-title="央视组播",CCTV-5+ HD
+#EXTINF:-1 group-title="央视组播",CCTV-5+ HD
 http://221.219.183.89:4022/rtp/239.3.1.130:8004
-#EXTINF:-1,group-title="央视组播",CCTV-6 HD
+#EXTINF:-1 group-title="央视组播",CCTV-6 HD
 http://221.219.183.89:4022/rtp/239.3.1.174:8001
-#EXTINF:-1,group-title="央视组播",CCTV-7 HD
+#EXTINF:-1 group-title="央视组播",CCTV-7 HD
 http://221.219.183.89:4022/rtp/239.3.1.61:8104
-#EXTINF:-1,group-title="央视组播",CCTV-8 HD
+#EXTINF:-1 group-title="央视组播",CCTV-8 HD
 http://221.219.183.89:4022/rtp/239.3.1.175:8001
-#EXTINF:-1,group-title="央视组播",CCTV-9 HD
+#EXTINF:-1 group-title="央视组播",CCTV-9 HD
 http://221.219.183.89:4022/rtp/239.3.1.62:8112
-#EXTINF:-1,group-title="央视组播",CCTV-10 HD
+#EXTINF:-1 group-title="央视组播",CCTV-10 HD
 http://221.219.183.89:4022/rtp/239.3.1.63:8116
-#EXTINF:-1,group-title="央视组播",CCTV-11 HD
+#EXTINF:-1 group-title="央视组播",CCTV-11 HD
 http://221.219.183.89:4022/rtp/239.3.1.152:8120
-#EXTINF:-1,group-title="央视组播",CCTV-12 HD
+#EXTINF:-1 group-title="央视组播",CCTV-12 HD
 http://221.219.183.89:4022/rtp/239.3.1.64:8124
-#EXTINF:-1,group-title="央视组播",CCTV-13 HD
+#EXTINF:-1 group-title="央视组播",CCTV-13 HD
 http://221.219.183.89:4022/rtp/239.3.1.124:8128
-#EXTINF:-1,group-title="央视组播",CCTV-14 HD
+#EXTINF:-1 group-title="央视组播",CCTV-14 HD
 http://221.219.183.89:4022/rtp/239.3.1.65:8132
-#EXTINF:-1,group-title="央视组播",CCTV-15 HD
+#EXTINF:-1 group-title="央视组播",CCTV-15 HD
 http://221.219.183.89:4022/rtp/239.3.1.153:8136
-#EXTINF:-1,group-title="央视组播",CCTV-16 奥林匹克[HDR]
+#EXTINF:-1 group-title="央视组播",CCTV-16 奥林匹克[HDR]
 http://221.219.183.89:4022/rtp/239.3.1.183:8001
-#EXTINF:-1,group-title="央视组播",CCTV-16 奥林匹克HD
+#EXTINF:-1 group-title="央视组播",CCTV-16 奥林匹克HD
 http://221.219.183.89:4022/rtp/239.3.1.184:8001
-#EXTINF:-1,group-title="央视组播",CCTV-17 HD
+#EXTINF:-1 group-title="央视组播",CCTV-17 HD
 http://221.219.183.89:4022/rtp/239.3.1.151:8144
-#EXTINF:-1,group-title="地方卫视组播",BRTV北京卫视HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV北京卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.241:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV新闻HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV新闻HD
 http://221.219.183.89:4022/rtp/239.3.1.159:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV影视HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV影视HD
 http://221.219.183.89:4022/rtp/239.3.1.158:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV文艺HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV文艺HD
 http://221.219.183.89:4022/rtp/239.3.1.242:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV财经HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV财经HD
 http://221.219.183.89:4022/rtp/239.3.1.116:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV生活HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV生活HD
 http://221.219.183.89:4022/rtp/239.3.1.117:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV青年HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV青年HD
 http://221.219.183.89:4022/# rtp/239.3.1.118:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV纪实科教HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV纪实科教HD
 http://221.219.183.89:4022/rtp/239.3.1.115:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV卡酷少儿HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV卡酷少儿HD
 http://221.219.183.89:4022/rtp/239.3.1.189:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV冬奥纪实HD
+#EXTINF:-1 group-title="地方卫视组播",BRTV冬奥纪实HD
 http://221.219.183.89:4022/# rtp/239.3.1.243:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV冬奥纪实[HDR]
+#EXTINF:-1 group-title="地方卫视组播",BRTV冬奥纪实[HDR]
 http://221.219.183.89:4022/# rtp/239.3.1.120:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV冬奥纪实[超清]
+#EXTINF:-1 group-title="地方卫视组播",BRTV冬奥纪实[超清]
 http://221.219.183.89:4022/# rtp/239.3.1.121:8000
-#EXTINF:-1,group-title="地方卫视组播",BRTV体育休闲[超清]
+#EXTINF:-1 group-title="地方卫视组播",BRTV体育休闲[超清]
 http://221.219.183.89:4022/rtp/239.3.1.243:8000
-#EXTINF:-1,group-title="地方卫视组播",BTV国际频道
+#EXTINF:-1 group-title="地方卫视组播",BTV国际频道
 http://221.219.183.89:4022/rtp/239.3.1.235:8000
-#EXTINF:-1,group-title="地方卫视组播",湖南卫视HD
+#EXTINF:-1 group-title="地方卫视组播",湖南卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.132:8012
-#EXTINF:-1,group-title="地方卫视组播",东方卫视HD
+#EXTINF:-1 group-title="地方卫视组播",东方卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.136:8032
-#EXTINF:-1,group-title="地方卫视组播",浙江卫视HD
+#EXTINF:-1 group-title="地方卫视组播",浙江卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.137:8036
-#EXTINF:-1,group-title="地方卫视组播",江苏卫视HD
+#EXTINF:-1 group-title="地方卫视组播",江苏卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.135:8028
-#EXTINF:-1,group-title="地方卫视组播",深圳卫视HD
+#EXTINF:-1 group-title="地方卫视组播",深圳卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.134:8020
-#EXTINF:-1,group-title="地方卫视组播",广东卫视HD
+#EXTINF:-1 group-title="地方卫视组播",广东卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.142:8048
-#EXTINF:-1,group-title="地方卫视组播",安徽卫视HD
+#EXTINF:-1 group-title="地方卫视组播",安徽卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.211:8064
-#EXTINF:-1,group-title="地方卫视组播",天津卫视HD
+#EXTINF:-1 group-title="地方卫视组播",天津卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.141:1234
-#EXTINF:-1,group-title="地方卫视组播",重庆卫视HD
+#EXTINF:-1 group-title="地方卫视组播",重庆卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.122:8160
-#EXTINF:-1,group-title="地方卫视组播",山东卫视HD
+#EXTINF:-1 group-title="地方卫视组播",山东卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.209:8052
-#EXTINF:-1,group-title="地方卫视组播",黑龙江卫视HD
+#EXTINF:-1 group-title="地方卫视组播",黑龙江卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.133:8016
-#EXTINF:-1,group-title="地方卫视组播",河北卫视HD
+#EXTINF:-1 group-title="地方卫视组播",河北卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.148:8072
-#EXTINF:-1,group-title="地方卫视组播",辽宁卫视HD
+#EXTINF:-1 group-title="地方卫视组播",辽宁卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.210:8056
-#EXTINF:-1,group-title="地方卫视组播",湖北卫视HD
+#EXTINF:-1 group-title="地方卫视组播",湖北卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.138:8044
-#EXTINF:-1,group-title="地方卫视组播",吉林卫视HD
+#EXTINF:-1 group-title="地方卫视组播",吉林卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.240:8172
-#EXTINF:-1,group-title="地方卫视组播",贵州卫视HD
+#EXTINF:-1 group-title="地方卫视组播",贵州卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.149:8076
-#EXTINF:-1,group-title="地方卫视组播",东南卫视HD
+#EXTINF:-1 group-title="地方卫视组播",东南卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.156:8148
-#EXTINF:-1,group-title="地方卫视组播",江西卫视HD
+#EXTINF:-1 group-title="地方卫视组播",江西卫视HD
 http://221.219.183.89:4022/rtp/239.3.1.123:8164
-#EXTINF:-1,group-title="地方卫视组播",海南卫视
+#EXTINF:-1 group-title="地方卫视组播",海南卫视
 http://221.219.183.89:4022/rtp/239.3.1.45:8304
-#EXTINF:-1,group-title="地方卫视组播",云南卫视
+#EXTINF:-1 group-title="地方卫视组播",云南卫视
 http://221.219.183.89:4022/rtp/239.3.1.26:8108
-#EXTINF:-1,group-title="地方卫视组播",兵团卫视
+#EXTINF:-1 group-title="地方卫视组播",兵团卫视
 http://221.219.183.89:4022/rtp/239.3.1.144:4120
-#EXTINF:-1,group-title="地方卫视组播",厦门卫视
+#EXTINF:-1 group-title="地方卫视组播",厦门卫视
 http://221.219.183.89:4022/rtp/239.3.1.143:4120
-#EXTINF:-1,group-title="地方卫视组播",四川卫视
+#EXTINF:-1 group-title="地方卫视组播",四川卫视
 http://221.219.183.89:4022/rtp/239.3.1.29:8288
-#EXTINF:-1,group-title="地方卫视组播",南方卫视
+#EXTINF:-1 group-title="地方卫视组播",南方卫视
 http://221.219.183.89:4022/rtp/239.3.1.161:8001
-#EXTINF:-1,group-title="地方卫视组播",宁夏卫视
+#EXTINF:-1 group-title="地方卫视组播",宁夏卫视
 http://221.219.183.89:4022/rtp/239.3.1.46:8124
-#EXTINF:-1,group-title="地方卫视组播",山西卫视
+#EXTINF:-1 group-title="地方卫视组播",山西卫视
 http://221.219.183.89:4022/rtp/239.3.1.42:8172
-#EXTINF:-1,group-title="地方卫视组播",广西卫视
+#EXTINF:-1 group-title="地方卫视组播",广西卫视
 http://221.219.183.89:4022/rtp/239.3.1.39:8300
-#EXTINF:-1,group-title="地方卫视组播",新疆卫视
+#EXTINF:-1 group-title="地方卫视组播",新疆卫视
 http://221.219.183.89:4022/rtp/239.3.1.48:8160
-#EXTINF:-1,group-title="地方卫视组播",河南卫视
+#EXTINF:-1 group-title="地方卫视组播",河南卫视
 http://221.219.183.89:4022/rtp/239.3.1.27:8128
-#EXTINF:-1,group-title="地方卫视组播",甘肃卫视
+#EXTINF:-1 group-title="地方卫视组播",甘肃卫视
 http://221.219.183.89:4022/rtp/239.3.1.49:8188
-#EXTINF:-1,group-title="地方卫视组播",西藏卫视
+#EXTINF:-1 group-title="地方卫视组播",西藏卫视
 http://221.219.183.89:4022/rtp/239.3.1.47:8164
-#EXTINF:-1,group-title="地方卫视组播",三沙卫视
+#EXTINF:-1 group-title="地方卫视组播",三沙卫视
 http://221.219.183.89:4022/rtp/239.3.1.155:4120
-#EXTINF:-1,group-title="地方卫视组播",陕西卫视
+#EXTINF:-1 group-title="地方卫视组播",陕西卫视
 http://221.219.183.89:4022/rtp/239.3.1.41:8140
-#EXTINF:-1,group-title="地方卫视组播",青海卫视
+#EXTINF:-1 group-title="地方卫视组播",青海卫视
 http://221.219.183.89:4022/rtp/239.3.1.44:8184
-#EXTINF:-1,group-title="地方卫视组播",内蒙古卫视
+#EXTINF:-1 group-title="地方卫视组播",内蒙古卫视
 http://221.219.183.89:4022/rtp/239.3.1.43:8176
-#EXTINF:-1,group-title="地方卫视组播",中国交通HD
+#EXTINF:-1 group-title="地方卫视组播",中国交通HD
 http://221.219.183.89:4022/rtp/239.3.1.188:8001
-#EXTINF:-1,group-title="其他",睛彩竞技HD
+#EXTINF:-1 group-title="其他",睛彩竞技HD
 http://221.219.183.89:4022/rtp/239.3.1.125:8001
-#EXTINF:-1,group-title="其他",睛彩篮球HD
+#EXTINF:-1 group-title="其他",睛彩篮球HD
 http://221.219.183.89:4022/rtp/239.3.1.126:8001
-#EXTINF:-1,group-title="其他",睛彩羽毛球HD
+#EXTINF:-1 group-title="其他",睛彩羽毛球HD
 http://221.219.183.89:4022/rtp/239.3.1.127:8001
-#EXTINF:-1,group-title="其他",睛彩广场舞HD
+#EXTINF:-1 group-title="其他",睛彩广场舞HD
 http://221.219.183.89:4022/rtp/239.3.1.128:8001
-#EXTINF:-1,group-title="其他",茶频道HD
+#EXTINF:-1 group-title="其他",茶频道HD
 http://221.219.183.89:4022/rtp/239.3.1.165:8001
-#EXTINF:-1,group-title="其他",体育赛事HD
+#EXTINF:-1 group-title="其他",体育赛事HD
 http://221.219.183.89:4022/rtp/239.3.1.157:8176
-#EXTINF:-1,group-title="其他",快乐垂钓HD
+#EXTINF:-1 group-title="其他",快乐垂钓HD
 http://221.219.183.89:4022/rtp/239.3.1.164:8001
-#EXTINF:-1,group-title="其他",少儿动画
+#EXTINF:-1 group-title="其他",少儿动画
 http://221.219.183.89:4022/rtp/239.3.1.199:9000
-#EXTINF:-1,group-title="其他",热播剧场
+#EXTINF:-1 group-title="其他",热播剧场
 http://221.219.183.89:4022/rtp/239.3.1.194:9020
-#EXTINF:-1,group-title="其他",解密
+#EXTINF:-1 group-title="其他",解密
 http://221.219.183.89:4022/rtp/239.3.1.75:4120
-#EXTINF:-1,group-title="其他",军事
+#EXTINF:-1 group-title="其他",军事
 http://221.219.183.89:4022/rtp/239.3.1.76:4120
-#EXTINF:-1,group-title="其他",军旅剧场
+#EXTINF:-1 group-title="其他",军旅剧场
 http://221.219.183.89:4022/rtp/239.3.1.68:4120
-#EXTINF:-1,group-title="其他",动画
+#EXTINF:-1 group-title="其他",动画
 http://221.219.183.89:4022/rtp/239.3.1.80:4120
-#EXTINF:-1,group-title="其他",古装剧场
+#EXTINF:-1 group-title="其他",古装剧场
 http://221.219.183.89:4022/rtp/239.3.1.69:4120
-#EXTINF:-1,group-title="其他",台球
+#EXTINF:-1 group-title="其他",台球
 http://221.219.183.89:4022/rtp/239.3.1.85:4120
-#EXTINF:-1,group-title="其他",嘉佳卡通
+#EXTINF:-1 group-title="其他",嘉佳卡通
 http://221.219.183.89:4022/rtp/239.3.1.147:9268
-#EXTINF:-1,group-title="其他",国学
+#EXTINF:-1 group-title="其他",国学
 http://221.219.183.89:4022/rtp/239.3.1.77:4120
-#EXTINF:-1,group-title="其他",城市剧场
+#EXTINF:-1 group-title="其他",城市剧场
 http://221.219.183.89:4022/rtp/239.3.1.67:4120
-#EXTINF:-1,group-title="其他",墨宝
+#EXTINF:-1 group-title="其他",墨宝
 http://221.219.183.89:4022/rtp/239.3.1.83:4120
-#EXTINF:-1,group-title="其他",好学生
+#EXTINF:-1 group-title="其他",好学生
 http://221.219.183.89:4022/rtp/239.3.1.81:4120
-#EXTINF:-1,group-title="其他",山东教育
+#EXTINF:-1 group-title="其他",山东教育
 http://221.219.183.89:4022/rtp/239.3.1.52:4120
-#EXTINF:-1,group-title="其他",戏曲
+#EXTINF:-1 group-title="其他",戏曲
 http://221.219.183.89:4022/rtp/239.3.1.78:4120
-#EXTINF:-1,group-title="其他",收视指南
+#EXTINF:-1 group-title="其他",收视指南
 http://221.219.183.89:4022/rtp/239.3.1.193:8012
-#EXTINF:-1,group-title="其他",早教
+#EXTINF:-1 group-title="其他",早教
 http://221.219.183.89:4022/rtp/239.3.1.79:4120
-#EXTINF:-1,group-title="其他",武侠剧场
+#EXTINF:-1 group-title="其他",武侠剧场
 http://221.219.183.89:4022/rtp/239.3.1.90:4120
-#EXTINF:-1,group-title="其他",武术
+#EXTINF:-1 group-title="其他",武术
 http://221.219.183.89:4022/rtp/239.3.1.87:4120
-#EXTINF:-1,group-title="其他",爱生活
+#EXTINF:-1 group-title="其他",爱生活
 http://221.219.183.89:4022/rtp/239.3.1.86:4120
-#EXTINF:-1,group-title="其他",美人
+#EXTINF:-1 group-title="其他",美人
 http://221.219.183.89:4022/rtp/239.3.1.73:4120
-#EXTINF:-1,group-title="其他",美妆
+#EXTINF:-1 group-title="其他",美妆
 http://221.219.183.89:4022/rtp/239.3.1.72:4120
-#EXTINF:-1,group-title="其他",财富天下
+#EXTINF:-1 group-title="其他",财富天下
 http://221.219.183.89:4022/rtp/239.3.1.53:9136
-#EXTINF:-1,group-title="其他",足球
+#EXTINF:-1 group-title="其他",足球
 http://221.219.183.89:4022/rtp/239.3.1.89:4120
-#EXTINF:-1,group-title="其他",金鹰卡通
+#EXTINF:-1 group-title="其他",金鹰卡通
 http://221.219.183.89:4022/rtp/239.3.1.51:9252
-#EXTINF:-1,group-title="其他",鉴赏
+#EXTINF:-1 group-title="其他",鉴赏
 http://221.219.183.89:4022/rtp/239.3.1.82:4120
-#EXTINF:-1,group-title="其他",音乐现场
+#EXTINF:-1 group-title="其他",音乐现场
 http://221.219.183.89:4022/rtp/239.3.1.70:4120
-#EXTINF:-1,group-title="其他",高网
+#EXTINF:-1 group-title="其他",高网
 http://221.219.183.89:4022/rtp/239.3.1.88:4120
-#EXTINF:-1,group-title="其他",魅力时尚
+#EXTINF:-1 group-title="其他",魅力时尚
 http://221.219.183.89:4022/rtp/239.3.1.196:9012
-#EXTINF:-1,group-title="其他",爱上4K[超清]
+#EXTINF:-1 group-title="其他",爱上4K[超清]
 http://221.219.183.89:4022/rtp/239.3.1.236:2000
-#EXTINF:-1,group-title="其他",4K超清[超清]
+#EXTINF:-1 group-title="其他",4K超清[超清]
 http://221.219.183.89:4022/rtp/239.3.1.249:8001
-#EXTINF:-1,group-title="其他",淘电影HD
+#EXTINF:-1 group-title="其他",淘电影HD
 http://221.219.183.89:4022/rtp/239.3.1.250:8001
-#EXTINF:-1,group-title="其他",每日影院HD
+#EXTINF:-1 group-title="其他",每日影院HD
 http://221.219.183.89:4022/# rtp/239.3.1.111:8001
-#EXTINF:-1,group-title="其他",星影
+#EXTINF:-1 group-title="其他",星影
 http://221.219.183.89:4022/rtp/239.3.1.94:4120
-#EXTINF:-1,group-title="其他",动作影院
+#EXTINF:-1 group-title="其他",动作影院
 http://221.219.183.89:4022/rtp/239.3.1.92:4120
-#EXTINF:-1,group-title="其他",光影
+#EXTINF:-1 group-title="其他",光影
 http://221.219.183.89:4022/rtp/239.3.1.84:4120
-#EXTINF:-1,group-title="其他",喜剧影院
+#EXTINF:-1 group-title="其他",喜剧影院
 http://221.219.183.89:4022/rtp/239.3.1.91:4120
-#EXTINF:-1,group-title="其他",家庭影院
+#EXTINF:-1 group-title="其他",家庭影院
 http://221.219.183.89:4022/rtp/239.3.1.93:4120
-#EXTINF:-1,group-title="其他",精选
+#EXTINF:-1 group-title="其他",精选
 http://221.219.183.89:4022/rtp/239.3.1.74:4120
-#EXTINF:-1,group-title="其他",经典电影
+#EXTINF:-1 group-title="其他",经典电影
 http://221.219.183.89:4022/rtp/239.3.1.195:9024
-#EXTINF:-1,group-title="其他",纪实人文HD
+#EXTINF:-1 group-title="其他",纪实人文HD
 http://221.219.183.89:4022/rtp/239.3.1.212:8060
-#EXTINF:-1,group-title="其他",金鹰纪实HD
+#EXTINF:-1 group-title="其他",金鹰纪实HD
 http://221.219.183.89:4022/rtp/239.3.1.58:8156
-#EXTINF:-1,group-title="其他",风尚生活HD
+#EXTINF:-1 group-title="其他",风尚生活HD
 http://221.219.183.89:4022/# rtp/239.3.1.114:8001
-#EXTINF:-1,group-title="其他",地理
+#EXTINF:-1 group-title="其他",地理
 http://221.219.183.89:4022/rtp/239.3.1.71:4120
-#EXTINF:-1,group-title="其他",淘剧场HD
+#EXTINF:-1 group-title="其他",淘剧场HD
 http://221.219.183.89:4022/rtp/239.3.1.95:8001
-#EXTINF:-1,group-title="其他",幸福剧场HD
+#EXTINF:-1 group-title="其他",幸福剧场HD
 http://221.219.183.89:4022/# rtp/239.3.1.112:8001
-#EXTINF:-1,group-title="其他",淘娱乐HD
+#EXTINF:-1 group-title="其他",淘娱乐HD
 http://221.219.183.89:4022/rtp/239.3.1.100:8001
-#EXTINF:-1,group-title="其他",幸福娱乐HD
+#EXTINF:-1 group-title="其他",幸福娱乐HD
 http://221.219.183.89:4022/# rtp/239.3.1.113:8001
-#EXTINF:-1,group-title="其他",淘BabyHD
+#EXTINF:-1 group-title="其他",淘BabyHD
 http://221.219.183.89:4022/rtp/239.3.1.238:8001
-#EXTINF:-1,group-title="其他",萌宠TVHD
+#EXTINF:-1 group-title="其他",萌宠TVHD
 http://221.219.183.89:4022/rtp/239.3.1.102:8001
